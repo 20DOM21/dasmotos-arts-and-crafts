@@ -1,0 +1,30 @@
+h1, h2, h3, span {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+h2 {
+    font-size: 32px;
+    color: white;
+    text-align: left;
+}
+p {
+    font-family: Helvetica, sans-serif;
+}
+#Brushes {
+    background-color: mediumspringgreen;
+}
+span {
+    color: blue;
+}
+#Frames {
+    background-color: lightcoral;
+}
+#Paint {
+    background-color: skyblue;
+}
